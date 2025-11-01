@@ -1,7 +1,0 @@
-D|3615|168|100|hit-marker.mp3
-D|5078|168|100|hit-marker.mp3
-D|8629|168|100|hit-marker.mp3
-D|9226|168|100|hit-marker.mp3
-D|9671|168|100|hit-marker.mp3
-D|10135|168|100|hit-marker.mp3
-D|10419|168|100|hit-marker.mp3
