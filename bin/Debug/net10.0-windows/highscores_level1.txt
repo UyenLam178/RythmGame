@@ -1,0 +1,13 @@
+a,1900,1
+a,0,1
+a,1200,1
+a,50,1
+g,1450,1
+Player,1150,1
+Player,1150,1
+Player,2300,1
+Player,2350,1
+Player,1150,1
+Player,4900,1
+Player,2100,1
+Player,9650,1
