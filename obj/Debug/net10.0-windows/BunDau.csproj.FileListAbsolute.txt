@@ -1,0 +1,106 @@
+C:\Users\DELL\source\repos\BunDau\obj\Debug\net10.0-windows\BunDau.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\BunDau\obj\Debug\net10.0-windows\BunDau.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\BunDau\obj\Debug\net10.0-windows\BunDau.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\BunDau\obj\Debug\net10.0-windows\BunDau.AssemblyInfo.cs
+C:\Users\DELL\source\repos\BunDau\obj\Debug\net10.0-windows\BunDau.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\BunDau\bin\Debug\net10.0-windows\BunDau.exe
+C:\Users\DELL\source\repos\BunDau\bin\Debug\net10.0-windows\BunDau.deps.json
+C:\Users\DELL\source\repos\BunDau\bin\Debug\net10.0-windows\BunDau.runtimeconfig.json
+C:\Users\DELL\source\repos\BunDau\bin\Debug\net10.0-windows\BunDau.dll
+C:\Users\DELL\source\repos\BunDau\bin\Debug\net10.0-windows\BunDau.pdb
+C:\Users\DELL\source\repos\BunDau\obj\Debug\net10.0-windows\BunDau.dll
+C:\Users\DELL\source\repos\BunDau\obj\Debug\net10.0-windows\refint\BunDau.dll
+C:\Users\DELL\source\repos\BunDau\obj\Debug\net10.0-windows\BunDau.pdb
+C:\Users\DELL\source\repos\BunDau\obj\Debug\net10.0-windows\BunDau.genruntimeconfig.cache
+C:\Users\DELL\source\repos\BunDau\obj\Debug\net10.0-windows\ref\BunDau.dll
+C:\Users\DELL\source\repos\BunDau\obj\Debug\net10.0-windows\RhythmGame.FormPlay.resources
+C:\Users\DELL\source\repos\BunDau\obj\Debug\net10.0-windows\Interop.WMPLib.dll
+C:\Users\DELL\source\repos\BunDau\obj\Debug\net10.0-windows\Interop.MediaPlayer.dll
+C:\Users\DELL\source\repos\BunDau\obj\Debug\net10.0-windows\BunDau.csproj.ResolveComReference.cache
+C:\Users\DELL\source\repos\BunDau\obj\Debug\net10.0-windows\RhythmGame.DoubleBufferedPanel.resources
+C:\Users\TRAM\OneDrive\Máy tính\BunDau\bin\Debug\net10.0-windows\BunDau.exe
+C:\Users\TRAM\OneDrive\Máy tính\BunDau\bin\Debug\net10.0-windows\BunDau.deps.json
+C:\Users\TRAM\OneDrive\Máy tính\BunDau\bin\Debug\net10.0-windows\BunDau.runtimeconfig.json
+C:\Users\TRAM\OneDrive\Máy tính\BunDau\bin\Debug\net10.0-windows\BunDau.dll
+C:\Users\TRAM\OneDrive\Máy tính\BunDau\bin\Debug\net10.0-windows\BunDau.pdb
+C:\Users\TRAM\OneDrive\Máy tính\BunDau\obj\Debug\net10.0-windows\Interop.WMPLib.dll
+C:\Users\TRAM\OneDrive\Máy tính\BunDau\obj\Debug\net10.0-windows\Interop.MediaPlayer.dll
+C:\Users\TRAM\OneDrive\Máy tính\BunDau\obj\Debug\net10.0-windows\BunDau.csproj.ResolveComReference.cache
+C:\Users\TRAM\OneDrive\Máy tính\BunDau\obj\Debug\net10.0-windows\RhythmGame.DoubleBufferedPanel.resources
+C:\Users\TRAM\OneDrive\Máy tính\BunDau\obj\Debug\net10.0-windows\RhythmGame.FormPlay.resources
+C:\Users\TRAM\OneDrive\Máy tính\BunDau\obj\Debug\net10.0-windows\BunDau.csproj.GenerateResource.cache
+C:\Users\TRAM\OneDrive\Máy tính\BunDau\obj\Debug\net10.0-windows\BunDau.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TRAM\OneDrive\Máy tính\BunDau\obj\Debug\net10.0-windows\BunDau.AssemblyInfoInputs.cache
+C:\Users\TRAM\OneDrive\Máy tính\BunDau\obj\Debug\net10.0-windows\BunDau.AssemblyInfo.cs
+C:\Users\TRAM\OneDrive\Máy tính\BunDau\obj\Debug\net10.0-windows\BunDau.csproj.CoreCompileInputs.cache
+C:\Users\TRAM\OneDrive\Máy tính\BunDau\obj\Debug\net10.0-windows\BunDau.dll
+C:\Users\TRAM\OneDrive\Máy tính\BunDau\obj\Debug\net10.0-windows\refint\BunDau.dll
+C:\Users\TRAM\OneDrive\Máy tính\BunDau\obj\Debug\net10.0-windows\BunDau.pdb
+C:\Users\TRAM\OneDrive\Máy tính\BunDau\obj\Debug\net10.0-windows\BunDau.genruntimeconfig.cache
+C:\Users\TRAM\OneDrive\Máy tính\BunDau\obj\Debug\net10.0-windows\ref\BunDau.dll
+F:\HK3\LTW\BunDau2\BunDau\bin\Debug\net10.0-windows\BunDau.exe
+F:\HK3\LTW\BunDau2\BunDau\bin\Debug\net10.0-windows\BunDau.deps.json
+F:\HK3\LTW\BunDau2\BunDau\bin\Debug\net10.0-windows\BunDau.runtimeconfig.json
+F:\HK3\LTW\BunDau2\BunDau\bin\Debug\net10.0-windows\BunDau.dll
+F:\HK3\LTW\BunDau2\BunDau\bin\Debug\net10.0-windows\BunDau.pdb
+F:\HK3\LTW\BunDau2\BunDau\obj\Debug\net10.0-windows\Interop.WMPLib.dll
+F:\HK3\LTW\BunDau2\BunDau\obj\Debug\net10.0-windows\Interop.MediaPlayer.dll
+F:\HK3\LTW\BunDau2\BunDau\obj\Debug\net10.0-windows\BunDau.csproj.ResolveComReference.cache
+F:\HK3\LTW\BunDau2\BunDau\obj\Debug\net10.0-windows\RhythmGame.FormCreate.resources
+F:\HK3\LTW\BunDau2\BunDau\obj\Debug\net10.0-windows\RhythmGame.DoubleBufferedPanel.resources
+F:\HK3\LTW\BunDau2\BunDau\obj\Debug\net10.0-windows\RhythmGame.FormPlay.resources
+F:\HK3\LTW\BunDau2\BunDau\obj\Debug\net10.0-windows\RhythmGame.FormSettings.resources
+F:\HK3\LTW\BunDau2\BunDau\obj\Debug\net10.0-windows\BunDau.csproj.GenerateResource.cache
+F:\HK3\LTW\BunDau2\BunDau\obj\Debug\net10.0-windows\BunDau.GeneratedMSBuildEditorConfig.editorconfig
+F:\HK3\LTW\BunDau2\BunDau\obj\Debug\net10.0-windows\BunDau.AssemblyInfoInputs.cache
+F:\HK3\LTW\BunDau2\BunDau\obj\Debug\net10.0-windows\BunDau.AssemblyInfo.cs
+F:\HK3\LTW\BunDau2\BunDau\obj\Debug\net10.0-windows\BunDau.csproj.CoreCompileInputs.cache
+F:\HK3\LTW\BunDau2\BunDau\obj\Debug\net10.0-windows\BunDau.dll
+F:\HK3\LTW\BunDau2\BunDau\obj\Debug\net10.0-windows\refint\BunDau.dll
+F:\HK3\LTW\BunDau2\BunDau\obj\Debug\net10.0-windows\BunDau.pdb
+F:\HK3\LTW\BunDau2\BunDau\obj\Debug\net10.0-windows\BunDau.genruntimeconfig.cache
+F:\HK3\LTW\BunDau2\BunDau\obj\Debug\net10.0-windows\ref\BunDau.dll
+F:\HK3\LTW\BunDau\BunDau\bin\Debug\net10.0-windows\BunDau.exe
+F:\HK3\LTW\BunDau\BunDau\bin\Debug\net10.0-windows\BunDau.deps.json
+F:\HK3\LTW\BunDau\BunDau\bin\Debug\net10.0-windows\BunDau.runtimeconfig.json
+F:\HK3\LTW\BunDau\BunDau\bin\Debug\net10.0-windows\BunDau.dll
+F:\HK3\LTW\BunDau\BunDau\bin\Debug\net10.0-windows\BunDau.pdb
+F:\HK3\LTW\BunDau\BunDau\obj\Debug\net10.0-windows\Interop.WMPLib.dll
+F:\HK3\LTW\BunDau\BunDau\obj\Debug\net10.0-windows\Interop.MediaPlayer.dll
+F:\HK3\LTW\BunDau\BunDau\obj\Debug\net10.0-windows\BunDau.csproj.ResolveComReference.cache
+F:\HK3\LTW\BunDau\BunDau\obj\Debug\net10.0-windows\RhythmGame.FormCreate.resources
+F:\HK3\LTW\BunDau\BunDau\obj\Debug\net10.0-windows\RhythmGame.DoubleBufferedPanel.resources
+F:\HK3\LTW\BunDau\BunDau\obj\Debug\net10.0-windows\RhythmGame.FormPlay.resources
+F:\HK3\LTW\BunDau\BunDau\obj\Debug\net10.0-windows\RhythmGame.FormSettings.resources
+F:\HK3\LTW\BunDau\BunDau\obj\Debug\net10.0-windows\BunDau.csproj.GenerateResource.cache
+F:\HK3\LTW\BunDau\BunDau\obj\Debug\net10.0-windows\BunDau.GeneratedMSBuildEditorConfig.editorconfig
+F:\HK3\LTW\BunDau\BunDau\obj\Debug\net10.0-windows\BunDau.AssemblyInfoInputs.cache
+F:\HK3\LTW\BunDau\BunDau\obj\Debug\net10.0-windows\BunDau.AssemblyInfo.cs
+F:\HK3\LTW\BunDau\BunDau\obj\Debug\net10.0-windows\BunDau.csproj.CoreCompileInputs.cache
+F:\HK3\LTW\BunDau\BunDau\obj\Debug\net10.0-windows\BunDau.dll
+F:\HK3\LTW\BunDau\BunDau\obj\Debug\net10.0-windows\refint\BunDau.dll
+F:\HK3\LTW\BunDau\BunDau\obj\Debug\net10.0-windows\BunDau.pdb
+F:\HK3\LTW\BunDau\BunDau\obj\Debug\net10.0-windows\BunDau.genruntimeconfig.cache
+F:\HK3\LTW\BunDau\BunDau\obj\Debug\net10.0-windows\ref\BunDau.dll
+C:\Users\DELL\Downloads\LTW\BunDau\BunDau\bin\Debug\net10.0-windows\BunDau.exe
+C:\Users\DELL\Downloads\LTW\BunDau\BunDau\bin\Debug\net10.0-windows\BunDau.deps.json
+C:\Users\DELL\Downloads\LTW\BunDau\BunDau\bin\Debug\net10.0-windows\BunDau.runtimeconfig.json
+C:\Users\DELL\Downloads\LTW\BunDau\BunDau\bin\Debug\net10.0-windows\BunDau.dll
+C:\Users\DELL\Downloads\LTW\BunDau\BunDau\bin\Debug\net10.0-windows\BunDau.pdb
+C:\Users\DELL\Downloads\LTW\BunDau\BunDau\obj\Debug\net10.0-windows\Interop.WMPLib.dll
+C:\Users\DELL\Downloads\LTW\BunDau\BunDau\obj\Debug\net10.0-windows\Interop.MediaPlayer.dll
+C:\Users\DELL\Downloads\LTW\BunDau\BunDau\obj\Debug\net10.0-windows\BunDau.csproj.ResolveComReference.cache
+C:\Users\DELL\Downloads\LTW\BunDau\BunDau\obj\Debug\net10.0-windows\RhythmGame.FormCreate.resources
+C:\Users\DELL\Downloads\LTW\BunDau\BunDau\obj\Debug\net10.0-windows\RhythmGame.DoubleBufferedPanel.resources
+C:\Users\DELL\Downloads\LTW\BunDau\BunDau\obj\Debug\net10.0-windows\RhythmGame.FormPlay.resources
+C:\Users\DELL\Downloads\LTW\BunDau\BunDau\obj\Debug\net10.0-windows\RhythmGame.FormSettings.resources
+C:\Users\DELL\Downloads\LTW\BunDau\BunDau\obj\Debug\net10.0-windows\BunDau.csproj.GenerateResource.cache
+C:\Users\DELL\Downloads\LTW\BunDau\BunDau\obj\Debug\net10.0-windows\BunDau.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Downloads\LTW\BunDau\BunDau\obj\Debug\net10.0-windows\BunDau.AssemblyInfoInputs.cache
+C:\Users\DELL\Downloads\LTW\BunDau\BunDau\obj\Debug\net10.0-windows\BunDau.AssemblyInfo.cs
+C:\Users\DELL\Downloads\LTW\BunDau\BunDau\obj\Debug\net10.0-windows\BunDau.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\LTW\BunDau\BunDau\obj\Debug\net10.0-windows\BunDau.dll
+C:\Users\DELL\Downloads\LTW\BunDau\BunDau\obj\Debug\net10.0-windows\refint\BunDau.dll
+C:\Users\DELL\Downloads\LTW\BunDau\BunDau\obj\Debug\net10.0-windows\BunDau.pdb
+C:\Users\DELL\Downloads\LTW\BunDau\BunDau\obj\Debug\net10.0-windows\BunDau.genruntimeconfig.cache
+C:\Users\DELL\Downloads\LTW\BunDau\BunDau\obj\Debug\net10.0-windows\ref\BunDau.dll
