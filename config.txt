@@ -1,7 +1,0 @@
-musicFolder=C:\Users\DELL\Downloads\LTW\BunDau\BunDau\bin\Debug\net10.0-windows\Music
-hitsound=C:\Users\DELL\Downloads\hit-marker.mp3
-background=
-key1=A
-key2=S
-key3=K
-key4=L
